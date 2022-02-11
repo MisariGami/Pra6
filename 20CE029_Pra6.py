@@ -1,5 +1,5 @@
 # 20CE029 Misari Gami
-# GitHub repository link : 
+# GitHub repository link : https://github.com/MisariGami/Pra6/blob/main/20CE029_Pra6.py
 
 # You are given n words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification. 
 
